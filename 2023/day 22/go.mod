@@ -1,3 +1,3 @@
 module bob
 
-go 1.21.1
+go 1.20
